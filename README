@@ -1,0 +1,25 @@
+### A brainfuck evaluator in javascript.
+
+---
+
+Reading and evaluating brainfuck code.
+
+Overview:
+
+- Evaluating small code.
+- Doesn't support input yet
+
+Simple hello world code.
+
+```
+>>++++[<+++++[<+++++>-]>-]<<++++.---.>++[<+++>-]<+..+++.>>>++++[<++++[<++>-]>-]<<.--[>++++<-]>-.>++++[<-->-]<.+++.>+++[<-->-]<.>++++[<-->-]<.
+
+```
+
+Modify the code variable within the _brainf.js_ file.
+
+Run with node.
+
+```sh
+node  brainf.js
+```
